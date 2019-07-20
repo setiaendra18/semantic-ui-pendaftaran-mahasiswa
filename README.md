@@ -8,3 +8,5 @@
   <li>LIBRARY LAINYA : <a href="https://github.com/axios/axios">AXIOS</a>(Untuk menghandle http request)</li>
    <li>DMBS : MYSQL</li>
 </ul>
+
+<strong>ASSETNYA DI EKSTRAK YA</strong>
