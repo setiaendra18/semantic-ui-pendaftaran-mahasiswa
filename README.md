@@ -2,7 +2,7 @@ PENDAFTARAN MAHASISWA
 
 <ul>
   <li>BACKEND : PHP (Untuk Encode ke JSON, sebagai web service sederhana menerima HTTP Request GET)</li>
-  <li>CSS FRAMEWORK : SEMANTIC UI</li>
-  <li>JAVASCRIPT FRAMEWORK : VUE JS </li>
-  <li>LIBRARY LAINYA : AXIOS (Untuk menghandle http request)</li>
+  <li>CSS FRAMEWORK : <a href="https://semantic-ui.com/">SEMANTIC UI</a></li>
+  <li>JAVASCRIPT FRAMEWORK : <a href="https://vuejs.org/">VUE JS</a></li>
+  <li>LIBRARY LAINYA : <a href="https://github.com/axios/axios">AXIOS (Untuk menghandle http request)</a></li>
 </ul>
