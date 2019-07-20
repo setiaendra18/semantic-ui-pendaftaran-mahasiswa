@@ -6,5 +6,5 @@ Studi Kasus Membuat Aplikasi Menerapkan HTML,CSS,PHP,WEB SERVICE,XML/JSON
   <li>CSS FRAMEWORK : <a href="https://semantic-ui.com/">SEMANTIC UI</a></li>
   <li>JAVASCRIPT FRAMEWORK : <a href="https://vuejs.org/">VUE JS</a></li>
   <li>LIBRARY LAINYA : <a href="https://github.com/axios/axios">AXIOS</a>(Untuk menghandle http request)</li>
-  
+   <li>DMBS : MYSQL</li>
 </ul>
